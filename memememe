@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Austin Voting Information</title>
+</head>
+<body>
+  <header>
+    <h1>Austin Voting Information</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#positions">Positions</a></li>
+      <li><a href="#city-council">City Council</a></li>
+      <li><a href="#propositions">Propositions</a></li>
+    </ul>
+  </nav>
+  
+  <section id="positions">
+    <h2>Positions</h2>
+    <p>Austin, Texas offers various positions for voting:</p>
+    <ul>
+      <li>Mayor: The Mayor of Austin is responsible for leading the city and representing its interests.</li>
+      <li>City Council Member: City Council Members are elected representatives who make policy decisions for the city.</li>
+      <li>School Board Member: School Board Members are responsible for overseeing the local school district.</li>
+    </ul>
+  </section>
+  
+  <section id="city-council">
+    <h2>City Council</h2>
+    <p>Here are some of the current City Council Members in Austin, Texas:</p>
+    <ul>
+      <li>John Smith - District 1</li>
+      <li>Jane Johnson - District 2</li>
+      <li>Mike Davis - District 3</li>
+    </ul>
+  </section>
+  
+  <section id="propositions">
+    <h2>Propositions</h2>
+    <p>These are the propositions up for voting in Austin, Texas:</p>
+    <ul>
+      <li>Proposition A: Funding for Public Transportation - This proposition seeks to allocate additional funds for improving public transportation infrastructure in Austin.</li>
+      <li>Proposition B: Affordable Housing Initiatives - This proposition aims to implement affordable housing programs and initiatives to address the housing crisis in Austin.</li>
+      <li>Proposition C: Parks and Recreation Funding - This proposition proposes increased funding for the development and maintenance of parks and recreational facilities in Austin.</li>
+    </ul>
+  </section>
+  
+  <footer>
+    <p>&copy; 2023 Austin Voting Information. All rights reserved.</p>
+  </footer>
+</body>
+</html>
